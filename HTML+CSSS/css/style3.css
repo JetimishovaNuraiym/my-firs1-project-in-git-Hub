@@ -1,0 +1,49 @@
+img {
+  justify-content: space-between;
+  width: 300px;
+  height: 400x;
+  border-radius: 300px;
+}
+
+button {
+  background-color: rgb(245, 153, 48);
+  color: rgb(14, 6, 20);
+  border-radius: 20px;
+  padding: 20px;
+}
+
+select {
+  background-color: rgb(245, 153, 48);
+  color: rgb(14, 6, 20);
+  border-radius: 15px;
+  padding: 15px;
+}
+input {
+  border: 4px solid blueviolet;
+  border-radius: 10px;
+  padding: 10px;
+}
+span {
+  color: rgba(72, 34, 129, 0.669);
+  font-size: 50px;
+}
+h3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(26, 77, 136);
+  letter-spacing: 3px;
+  line-height: 20px;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(26, 77, 136);
+}
+.повар {
+  align-items: flex-end;
+}
